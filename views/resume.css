@@ -1,0 +1,29 @@
+body {
+    background-image: url(https://wallpapercave.com/wp/wp6819595.jpg);
+    font-family: Arial, sans-serif;
+    color: #99ff33;
+}
+
+p a:hover {
+    color: red; 
+    text-decoration: underline;
+}
+
+.home-btn {
+    display: block;
+    width: 200px;
+    height: 50px;
+    margin: 30px auto;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+}
+
+.home-btn:hover{
+    color: red;
+}

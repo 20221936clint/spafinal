@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://usagif.com/wp-content/uploads/gif/outerspace-85.gif);
+    background-position: 1000%;
+}
+
+header {
+    background-image: url(https://i.pinimg.com/originals/98/9b/20/989b2075acee4875c6a36e2a66b2fa71.gif);
+    padding: 20px;
+    color: #66ff33;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 50px;
+    font-family: Impact;
+    font-style: oblique;
+    text-shadow: 2px 2px 4px red;
+    color: aqua;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffcc00;
+}
+
+nav ul li a:hover {
+    color: #66ffff;
+}
+
+main {
+    padding: 20px;
+    color: #00ffff;
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+
+}
+
+footer {
+    padding: 20px;
+    
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+  }
+  
